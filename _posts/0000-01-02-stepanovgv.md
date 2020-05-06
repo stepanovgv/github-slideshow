@@ -2,5 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-> My quotes here
-Use the left arrow to go back!
+<bold>Please</bold> use the left arrow to go back!
